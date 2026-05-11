@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olubusade">
-    <img src="assets/Busade-profile-card-1.jpg" alt="Busade Adedayo Profile Card" width="800">
+    <img src="Busade-profile-card-1.png" alt="Busade Adedayo Profile Card" width="800">
   </a>  
 </p>
 
