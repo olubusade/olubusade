@@ -118,5 +118,9 @@ I believe that healthcare software must be **invisible yet indestructible.** My 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=olubusade&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=olubusade&show_icons=true&theme=tokyonight" alt="Busade's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olubusade&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
