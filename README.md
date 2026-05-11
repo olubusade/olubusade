@@ -40,6 +40,7 @@ A robust, compliance-first Electronic Medical Record (EMR) frontend and backend 
 Launch EMR Frontend
 </a><br/>
 [📂 Frontend Source](https://github.com/olubusade/emr-core-Frontend)
+
 > Demo credentials for Admin, Physician, and Nurse roles are pre-filled on the login screen for easier evaluation.
 
 ## ▶️ Full Frontend Walkthrough
@@ -79,13 +80,14 @@ Complete walkthrough covering:
 <a href="https://emrapi.busade.dev/api/docs" target="_blank" rel="noopener noreferrer">
 Launch EMR Backend (Swagger)
 </a><br/>
+
 [📂 Backend Source](https://github.com/olubusade/emr-core-frontend
 
 ## 🌍 Live EMR Health
 <a href="https://emrapi.busade.dev/api/health" target="_blank" rel="noopener noreferrer">
 Check Health Status
 </a>
----
+<br/>
 
 ## 🛠️ TECHNICAL ECOSYSTEM
 
