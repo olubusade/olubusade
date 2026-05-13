@@ -1,5 +1,5 @@
 
-# 🏛️ Principal Software Architect | HealthTech & AI Specialist
+# 🏛️ Senior Software Architect | HealthTech Specialist
 
 ---
 
@@ -18,8 +18,6 @@
 
 * **Certifications:** AWS Certified Cloud Practitioner | AWS Solutions Architect - Associate (In Progress).
 ---
-
-# 🏛️ Senior Software Architect | HealthTech Specialist
 
 <p align="center">
   <a href="https://www.linkedin.com/in/olubusade">
