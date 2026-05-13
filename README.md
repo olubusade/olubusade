@@ -111,7 +111,7 @@ I believe that healthcare software must be **invisible yet indestructible.** My 
 
 ## 📜 LICENSE & CONTACT
 
-* 📬 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/olubusade) | [Email](mailto:hello@busade.tech)
+* 📬 **Reach Me:** [LinkedIn](https://www.linkedin.com/in/olubusade) | [Email](mailto:hello@busade.dev)
 * 📍 **Location:** Based in Lagos, Nigeria | Targeting Lead/Senior roles in Canada 🇨🇦
 * MIT © 2026 - **Busade Adedayo**
 
