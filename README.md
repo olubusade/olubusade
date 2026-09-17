@@ -16,7 +16,7 @@
 * ✔ **AI/ML Integration:** Real-time inference engines (Python/FastAPI) optimized for sub-millisecond threat detection.
 
 
-* **Certifications:** AWS Certified Cloud Practitioner | AWS Solutions Architect - Associate (In Progress).
+* **Certifications:** AWS Certified Cloud Practitioner | AWS Solutions Architect - Associate (In Progress), SCRUM Certified Developer.
 ---
 
 <p align="center">
