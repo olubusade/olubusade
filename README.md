@@ -52,7 +52,7 @@
 | Category | Technologies |
 | --- | --- |
 | **Backend & AI** | Node.js (Express), **Python (FastAPI)**, TypeScript, Sequelize ORM, PHP |
-| **Frontend** | Angular, **Astro (Performance)**, Next.js, Ionic (Mobile), Tailwind CSS |
+| **Frontend** | Angular, **Astro (Performance)**, Next.js, React.js, React Native & Ionic (Mobile), Tailwind CSS |
 | **Data & Cache** | PostgreSQL, MySQL, Redis, MongoDB |
 | **DevOps & Infra** | **AWS (ECR, RDS, S3)**, Terraform, Docker, GitHub Actions, NGINX |
 | **Security** | JWT, RBAC/PBAC, **"Break-the-Glass" Protocols**, WAF |
