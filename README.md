@@ -7,7 +7,7 @@
 
 **Busade Adedayo, M.Tech** *Principal Software Architect / Founder @ Crovix*
 
-* **Engineering Leadership:** 7+ years of core specialization in architecting and scaling production-grade **Electronic Medical Record (EMR)** systems and **AI-driven security engines.**
+* **Engineering Leadership:** 10+ years of total software engineering experience, including 7+ years of core specialization in architecting and scaling production-grade **Electronic Medical Record (EMR)** systems and **AI-driven security engines.**
 * **Academic Depth:** Master’s (M.Tech) in Computer Science, specializing in complex system architecture and research-driven software engineering.
 * **Architecture-First Approach:** Expert in domain-driven design, transitioning systems from bare-metal to high-availability cloud-native infrastructures.
 * **Specialized Expertise:**
